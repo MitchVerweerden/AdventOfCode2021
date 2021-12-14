@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFMhkeRUTP9QHpUYLPnGp0tA0loYBFmkUN0i3E6WmGuKrY3vUSx7R4S+jfchGJijCaSEdIrctKIuR4rtVzpNTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\verwe\\Documents\\GitHub\\AdventOfCode2021\\Day 1\\Part 1\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\verwe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
